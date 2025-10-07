@@ -1,8 +1,10 @@
-Database Development with PL/SQL – Assignment
-
+Course:Database Development with PL/SQL – Assignment
 Student Information
 Name Sheja Radan Boris  
 Student ID:29096 
+Lecture: ERIC MANIRAGUHA
+Date: 07/10/2025
+PROJECT TOPIC:PL/SQL(CDB,PDB AND OEM MASTERY PROJECT)
 **Overview**
 This project demonstrates practical tasks in **Oracle Database Development** using **PL/SQL**.  
 The focus is on **Pluggable Database (PDB)** management within a **Container Database (CDB)** environment and the **configuration of Oracle Enterprise Manager (OEM)**.
@@ -25,12 +27,14 @@ Image to task:SCREENSHOT/create and show pdb.png
   Image to task: SCREENSHOT/CONFIGURE OEM.png
 - then we proceded to this link:https://localhost:8443/em that we use to open oracle enterprise manager
   in order to see the health of our oracle database
-   Image to task:
+  Images to task:
   -SCREENSHOT/login oem.png
   -SCREENSHOT/activity.png
   -SCREENSHOT/perfomance.png
   -SCREENSHOT/resources.png
-  -
+  -SCREENSHOT/tablespace.png
+
+  
   
    
   
