@@ -16,5 +16,7 @@ Image to task:SCREENSHOT/create and show pdb.png
 
 **Task 2: Creation and Deletion of PDB**
 - Created a new pluggable database (PDB) named: bo_to_delete_29096
-- 
+  SCREENSHOT/create pdb to be dropped.png
+- Dropped the new pluggable database
+  
   
