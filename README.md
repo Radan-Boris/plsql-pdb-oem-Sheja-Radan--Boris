@@ -27,9 +27,10 @@ Image to task:SCREENSHOT/create and show pdb.png
   in order to see the health of our oracle database
    Image to task:
   -SCREENSHOT/login oem.png
+  -SCREENSHOT/activity.png
   -SCREENSHOT/perfomance.png
   -
   -
-  -
+  
    
   
