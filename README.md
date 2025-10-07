@@ -16,11 +16,15 @@ Image to task:SCREENSHOT/create and show pdb.png
 
 **Task 2: Creation and Deletion of PDB**
 - Created a new pluggable database (PDB) named: bo_to_delete_29096
-  SCREENSHOT/create pdb to be dropped.png
+ Image to task: SCREENSHOT/create pdb to be dropped.png
 - Dropped the new pluggable database
-  SCREENSHOT/pdb dropped.png
+ Image to task: SCREENSHOT/pdb dropped.png
 
  **Task 3: Configure Oracle Enterprise Manager (OEM)**
  - i have confugured the OEM
+  Image to task: SCREENSHOT/CONFIGURE OEM.png
+- then we proceded to this link:https://localhost:8443/em that we use to open oracle enterprise manager
+  in order to see the health of our oracle database
+   Image to task:
    
   
