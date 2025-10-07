@@ -25,6 +25,11 @@ Image to task:SCREENSHOT/create and show pdb.png
   Image to task: SCREENSHOT/CONFIGURE OEM.png
 - then we proceded to this link:https://localhost:8443/em that we use to open oracle enterprise manager
   in order to see the health of our oracle database
-   Image to task: SCREENSHOT/login oem.png,
+   Image to task:
+  -SCREENSHOT/login oem.png
+  -SCREENSHOT/perfomance.png
+  -
+  -
+  -
    
   
