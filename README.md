@@ -7,10 +7,7 @@ Student ID:29096
 This project demonstrates practical tasks in **Oracle Database Development** using **PL/SQL**.  
 The focus is on **Pluggable Database (PDB)** management within a **Container Database (CDB)** environment and the **configuration of Oracle Enterprise Manager (OEM)**.
 
----
-
-## Tasks
-
-### **Task 1: Connection of PDB**
+ Tasks
+ **Task 1: Connection of PDB**
 - Established a connection to the container database (CDB).
 - Created a new pluggable database (PDB) named:
