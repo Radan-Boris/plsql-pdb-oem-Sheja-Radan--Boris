@@ -29,7 +29,7 @@ Image to task:SCREENSHOT/create and show pdb.png
   -SCREENSHOT/login oem.png
   -SCREENSHOT/activity.png
   -SCREENSHOT/perfomance.png
-  -
+  -SCREENSHOT/resources.png
   -
   
    
