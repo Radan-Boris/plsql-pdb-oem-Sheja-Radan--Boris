@@ -10,4 +10,6 @@ The focus is on **Pluggable Database (PDB)** management within a **Container Dat
  Tasks
  **Task 1: Connection of PDB**
 - Established a connection to the container database (CDB).
-- Created a new pluggable database (PDB) named:
+Image to task:SCREENSHOT/oracle connection.png
+- Created a new pluggable database (PDB) named: bo_pdb_29096
+  
