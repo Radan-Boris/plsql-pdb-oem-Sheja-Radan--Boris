@@ -18,5 +18,9 @@ Image to task:SCREENSHOT/create and show pdb.png
 - Created a new pluggable database (PDB) named: bo_to_delete_29096
   SCREENSHOT/create pdb to be dropped.png
 - Dropped the new pluggable database
-  
+  SCREENSHOT/pdb dropped.png
+
+ **Task 3: Configure Oracle Enterprise Manager (OEM)**
+ - i have confugured the OEM
+   
   
